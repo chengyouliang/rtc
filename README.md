@@ -1,0 +1,1 @@
+./configure --enable-libx264 --enable-gpl   --enable-libsrt  --extra-libs='-L/home/youliang/code/media/rtc/FFmpeg-n4.3.3/metartc4 -lmetartccore5 -lspeexdsp -lpthread -lsrtp2 -lssl -lcrypto -ldl -lusrsctp'
